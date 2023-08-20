@@ -55,11 +55,11 @@ $font-weight5:500;
     font-weight: $font-weight5;
 }
 .form-group {
-    height: 100px;
+    min-height: 100vh;
     width: 50%;
     margin-left: 25px;
     margin-right: 50px;
-    margin-top: 25px;
+    margin-top: 25xp;
     color: $color4;
 
     .btn {

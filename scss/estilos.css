@@ -330,11 +330,11 @@ font-family: 'Secular One', sans-serif;*/
 }
 
 .form-group {
-  height: 100px;
-  width: 50%;
+  height: 100%;
+  width: 100%;
   margin-left: 25px;
   margin-right: 50px;
-  margin-top: 25px;
+  margin-top: 100%;
   color: #091418;
 }
 .form-group .btn {
